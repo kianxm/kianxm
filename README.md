@@ -1,3 +1,5 @@
+<img src="./stripe.png" width="100%" height="5px">
+
 <h1 align="center">Hi 👋, I'm Kian Malakooti!</h1>
 <h3 align="center">Computer Engineer Major @ Santa Clara University</h3>
 
