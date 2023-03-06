@@ -1,4 +1,4 @@
-<img src="./stripe.png" width="100%" height="5px">
+<img src="https://raw.githubusercontent.com/kianxm/kianxm/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Kian Malakooti!</h1>
 <h3 align="center">Computer Engineer Major @ Santa Clara University</h3>
