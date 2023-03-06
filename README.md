@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kianxm/kianxm/master/name.png" width="75%">
+  <img src="https://raw.githubusercontent.com/kianxm/kianxm/master/name.png" width="50%">
 </p>	
 <img src="https://raw.githubusercontent.com/kianxm/kianxm/master/waves.svg" width="100%" height="150">
 
