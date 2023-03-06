@@ -1,5 +1,5 @@
-# 💫 About Me:
-Aspiring Computer Engineering @ Santa Clara University
+<h1 align="center">Hi 👋, I'm Kian Malakooti!</h1>
+<h3 align="center">Computer Engineer Major @ Santa Clara University</h3>
 
 
 ## 🌐 Socials:
