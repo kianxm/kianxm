@@ -3,7 +3,7 @@
 </p>	
 <img src="https://raw.githubusercontent.com/kianxm/kianxm/master/waves.svg" width="100%" height="150">
 
-<h3 align="center">Aspiring Computer Engineer @ Santa Clara University</h3>
+<h3 align="center">SDE Intern @ Geopogo</h3>
 
 
 ## 🌐 Socials:
