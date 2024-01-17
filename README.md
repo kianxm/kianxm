@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kianxm/kianxm/master/name.png" width="30%">
-</p>	
-<img src="https://raw.githubusercontent.com/kianxm/kianxm/master/waves.svg" width="100%" height="150">
 
-<h3 align="center">SDE Intern @ Geopogo</h3>
 
 
 ## 🌐 Socials:
